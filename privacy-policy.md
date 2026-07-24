@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy — Common Ground Free Store Mobile App
 
 **Effective date:** July 23, 2026
@@ -105,8 +110,13 @@ You may:
 ## Contact us
 
 Common Ground Free Store Ministries
-REPLACE_WITH_MAILING_ADDRESS
-Email: REPLACE_WITH_CONTACT_EMAIL
+193 E Central Ave
+Delaware, Ohio 43015
+
+Phone: 740-369-3733
+Contact form: https://commongroundfreestore.org/who-we-are/contact.html
+
+You may also speak to staff in person at the store during open hours.
 
 ## Changes to this policy
 
